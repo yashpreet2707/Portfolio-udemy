@@ -1,0 +1,94 @@
+body {
+  background-color: #B7D3DF;          /*   #E8DFCA */
+  font-family:sans-serif;
+  color: black;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width:100px;
+
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+h3 {
+  text-align: center;
+}
+.table-css{
+  border-color: black;
+  margin:auto;
+  text-align: center;
+
+}
+
+ol {
+  margin-left: 10%;
+}
+
+.head-div {
+  width: 90%;
+  margin-left: 25%;
+  background-color: #B7D3DF;                           /* #FCE2DB */
+  width: 50%;
+  position: fixed;
+  
+}
+.first-div {
+  margin-left: 25%;
+  background-color: #B7D3DF;                            /*  ##8BBCCC */
+  width: 50%;
+  margin-top: 15%;
+}
+.second-div {
+  margin-left: 25%;
+  background-color: #B7D3DF;                          /* #FFF9B0*/
+  width: 50%;
+  margin-top: 3%;
+
+
+}
+.h2-css {
+  text-align: center;
+}
+
+.feel-free {
+  margin-left: 25%;
+  background-color: #B7D3DF;
+  width: 50%;
+  padding-bottom: 20px;
+}
+
+.submit {
+  margin-left: 38%;
+}
+
+.name-1 {
+  margin-left: 20%;
+}
+.name-2 {
+  margin-left: 25%;
+}
+
+.name-4 {
+  margin-left: 30.5%;
+}
+.name-5 {
+  margin-left: 22%;
+}
+
+.logo-img {
+  width: 50px;
+}
+
+.logo-div {
+  margin-left: 43%;
+}
