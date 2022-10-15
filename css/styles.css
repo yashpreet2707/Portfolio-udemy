@@ -1,5 +1,5 @@
 body {
-  background-color: #B7D3DF;          /*   #E8DFCA */
+  background-color: #E8DFCA;          /*   #E8DFCA */
   font-family:sans-serif;
   color: black;
 }
@@ -37,20 +37,20 @@ ol {
 .head-div {
   width: 90%;
   margin-left: 25%;
-  background-color: #B7D3DF;                           /* #FCE2DB */
+  background-color: #E8DFCA;                           /* #FCE2DB */
   width: 50%;
   position: fixed;
   
 }
 .first-div {
   margin-left: 25%;
-  background-color: #B7D3DF;                            /*  ##8BBCCC */
+  background-color: #E8DFCA;                            /*  ##8BBCCC */
   width: 50%;
   margin-top: 15%;
 }
 .second-div {
   margin-left: 25%;
-  background-color: #B7D3DF;                          /* #FFF9B0*/
+  background-color: #E8DFCA;                          /* #FFF9B0*/
   width: 50%;
   margin-top: 3%;
 
@@ -62,7 +62,7 @@ ol {
 
 .feel-free {
   margin-left: 25%;
-  background-color: #B7D3DF;
+  background-color: #E8DFCA;
   width: 50%;
   padding-bottom: 20px;
 }
