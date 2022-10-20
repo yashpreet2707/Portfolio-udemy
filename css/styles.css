@@ -1,12 +1,12 @@
 body {
-  background-color: #E8DFCA;          /*   #E8DFCA */
+  background-color: #DFF6FF;          /*   #E8DFCA */
   font-family:sans-serif;
   color: black;
 }
 
 hr {
-  border-style: none;
-  border-top-style: dotted;
+
+  border-style: dotted none none none;
   border-color: black;
   border-width: 5px;
   width:100px;
@@ -15,13 +15,16 @@ hr {
 
 h1 {
   font-family: sans-serif;
+  color: maroon;
 }
 
 h2 {
   font-family: sans-serif;
+  color: #002E94;
 }
 h3 {
   text-align: center;
+  color: #002E94;
 }
 .table-css{
   border-color: black;
@@ -35,36 +38,48 @@ ol {
 }
 
 .head-div {
-  width: 90%;
-  margin-left: 25%;
-  background-color: #E8DFCA;                           /* #FCE2DB */
-  width: 50%;
+  top: 0px;
+  background-color: #DFF6FF;                           /* #FCE2DB */
+  width: 100%;
   position: fixed;
   
 }
 .first-div {
   margin-left: 25%;
-  background-color: #E8DFCA;                            /*  ##8BBCCC */
+  background-color: #DFF6FF;                            /*  ##8BBCCC */
   width: 50%;
-  margin-top: 15%;
+  margin-top: 16.7%;
+  padding-bottom: 10px;
 }
 .second-div {
   margin-left: 25%;
-  background-color: #E8DFCA;                          /* #FFF9B0*/
+  background-color: #DFF6FF;                          /* #FFF9B0*/
   width: 50%;
   margin-top: 3%;
-
+  padding-bottom: 10px;
 
 }
 .h2-css {
+  
   text-align: center;
+
+
+}
+
+
+.ed-ol-list {
+
+    margin-left: 16%;
 }
 
 .feel-free {
   margin-left: 25%;
-  background-color: #E8DFCA;
+  background-color: #DFF6FF;
   width: 50%;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .submit {
@@ -91,4 +106,16 @@ ol {
 
 .logo-div {
   margin-left: 43%;
+}
+
+.last-line {
+
+    margin-left: 27%;
+}
+
+.anchor-tag {
+
+  color: #002E94;
+  text-decoration: none;
+
 }
