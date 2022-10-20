@@ -1,80 +1,97 @@
+
+
 body {
-  background-color: #DFF6FF;          /*   #E8DFCA */
+  background-color: #8BBCCC;          
   font-family:sans-serif;
   color: black;
 }
 
 hr {
-
   border-style: dotted none none none;
   border-color: black;
   border-width: 5px;
   width:100px;
+}
 
+
+/*  MAIN DIV - containing picture   */
+
+
+.main-div {
+  top: 0px;
+  background-color: #8BBCCC;                          
+  width: 100%;
+  position: fixed;
+  left: 0px;
 }
 
 h1 {
   font-family: sans-serif;
-  color: maroon;
+  color: #4C6793;
 }
 
-h2 {
-  font-family: sans-serif;
-  color: #002E94;
-}
-h3 {
-  text-align: center;
-  color: #002E94;
-}
-.table-css{
-  border-color: black;
+.table-main-div {
+  border-color: #4C6793;
   margin:auto;
   text-align: center;
-
 }
 
-ol {
-  margin-left: 10%;
-}
 
-.head-div {
-  top: 0px;
-  background-color: #DFF6FF;                           /* #FCE2DB */
-  width: 100%;
-  position: fixed;
-  
-}
+/*    FIRST DIV - Educational  Qualifications   */
+
+
 .first-div {
   margin-left: 25%;
-  background-color: #DFF6FF;                            /*  ##8BBCCC */
+  background-color: #8BBCCC;                           
   width: 50%;
-  margin-top: 16.7%;
+  margin-top: 1px;
+  padding-top: 1px;
   padding-bottom: 10px;
 }
+
+.h2-first-div {
+  
+  color: white;
+  margin-top: 13.78%;
+  text-align: center;
+  background-color: #4C6793;
+}
+
+.ol-list-first-div {
+  margin-left: 16%;
+}
+
+
+/*    SECOND DIV - Skills   */
+
+
+.h2-second-div {
+
+  color: white;
+  text-align: center;
+  background-color: #4C6793;
+}
+
 .second-div {
   margin-left: 25%;
-  background-color: #DFF6FF;                          /* #FFF9B0*/
+  background-color: #8BBCCC;                         
   width: 50%;
   margin-top: 3%;
   padding-bottom: 10px;
-
 }
-.h2-css {
-  
-  text-align: center;
 
-
+.table-second-div { 
+  border-color: #4C6793;
+  margin-left: 35%;
 }
 
 
-.ed-ol-list {
+/*    THIRD DIV - Feel Free to Contact Me ⬇ */
 
-    margin-left: 16%;
-}
 
-.feel-free {
+.third-div {
   margin-left: 25%;
-  background-color: #DFF6FF;
+  background-color: #8BBCCC;
   width: 50%;
   padding-bottom: 10px;
   padding-top: 10px;
@@ -82,21 +99,24 @@ ol {
   margin-bottom: 0px;
 }
 
-.submit {
-  margin-left: 38%;
+.h2-third-div {
+
+  color: white;
+  text-align: center;
+  background-color: #4C6793;
 }
 
-.name-1 {
-  margin-left: 20%;
-}
-.name-2 {
+/* FORM */
+
+.form-name {
   margin-left: 25%;
 }
 
-.name-4 {
+.form-email {
   margin-left: 30.5%;
 }
-.name-5 {
+
+.form-your-message {
   margin-left: 22%;
 }
 
@@ -104,18 +124,17 @@ ol {
   width: 50px;
 }
 
+.submit {
+  margin-left: 38%;
+}
+
+
+/*  LAST LOGO   */
+
+
 .logo-div {
-  margin-left: 43%;
+  background-color: #4C6793;
+  width: 100%;
+  text-align: center;
 }
 
-.last-line {
-
-    margin-left: 27%;
-}
-
-.anchor-tag {
-
-  color: #002E94;
-  text-decoration: none;
-
-}
