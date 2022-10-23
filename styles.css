@@ -36,13 +36,13 @@ h3 {
 
 .top-cloud {
     position: absolute;
-    right: 300px;
-    top: 50px;
+    right: 350px;
+    top: 53px;
     
 }
 .bottom-cloud {
     position: absolute;
-    bottom: 300px;
+    bottom: 315.5px;
     left: 350px;
 }
 
@@ -52,6 +52,7 @@ h3 {
     background-color: white;
     color: #45b29a;
     padding-bottom: 30px;
+    padding-top: 10px;
 }
 
 .first-p {
@@ -67,7 +68,7 @@ h3 {
   .h2-first-container {
     font-family: 'Montserrat', sans-serif;
     font-size: 30px;
-    color: black;
+    color: rgb(223, 159, 159);
 }
 
   /*    SECOND CONTAINER    */
