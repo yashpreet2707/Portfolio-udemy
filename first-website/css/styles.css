@@ -1,0 +1,140 @@
+
+
+body {
+  background-color: #8BBCCC;          
+  font-family:sans-serif;
+  color: black;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: black;
+  border-width: 5px;
+  width:100px;
+}
+
+
+/*  MAIN DIV - containing picture   */
+
+
+.main-div {
+  top: 0px;
+  background-color: #8BBCCC;                          
+  width: 100%;
+  position: fixed;
+  left: 0px;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: #4C6793;
+}
+
+.table-main-div {
+  border-color: #4C6793;
+  margin:auto;
+  text-align: center;
+}
+
+
+/*    FIRST DIV - Educational  Qualifications   */
+
+
+.first-div {
+  margin-left: 25%;
+  background-color: #8BBCCC;                           
+  width: 50%;
+  margin-top: 1px;
+  padding-top: 1px;
+  padding-bottom: 10px;
+}
+
+.h2-first-div {
+  
+  color: white;
+  margin-top: 200px;
+  text-align: center;
+  background-color: #4C6793;
+}
+
+.ol-list-first-div {
+  margin-left: 16%;
+}
+
+
+/*    SECOND DIV - Skills   */
+
+
+.h2-second-div {
+
+  color: white;
+  text-align: center;
+  background-color: #4C6793;
+}
+
+.second-div {
+  margin-left: 25%;
+  background-color: #8BBCCC;                         
+  width: 50%;
+  margin-top: 3%;
+  padding-bottom: 10px;
+}
+
+.table-second-div { 
+  border-color: #4C6793;
+  margin-left: 35%;
+}
+
+
+/*    THIRD DIV - Feel Free to Contact Me ⬇ */
+
+
+.third-div {
+  margin-left: 25%;
+  background-color: #8BBCCC;
+  width: 50%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.h2-third-div {
+
+  color: white;
+  text-align: center;
+  background-color: #4C6793;
+}
+
+/* FORM */
+
+.form-name {
+  margin-left: 25%;
+}
+
+.form-email {
+  margin-left: 30.5%;
+}
+
+.form-your-message {
+  margin-left: 22%;
+}
+
+.logo-img {
+  width: 50px;
+}
+
+.submit {
+  margin-left: 38%;
+}
+
+
+/*  LAST LOGO   */
+
+
+.logo-div {
+  background-color: #4C6793;
+  width: 100%;
+  text-align: center;
+}
+
